@@ -239,38 +239,5 @@ a#pdf:hover {
 }
 
 
-.nav2 ul{
-    display: flex;
-    text-decoration: none;
-    padding-left: 880px;
 
-
-}
-.nav2{
-    margin-top: -70px;
-    margin-bottom: 5px;
-
-}
-.nav2 ul li{
-    padding-right: 30px;
-    border-bottom: none;
-}
-.nav2 ul li a{
-    font-size: 20px;
-
-}
-
-.nav2 ul li a:hover{
-    border-bottom: cornflowerblue 2px solid;
-    color: darkred;
-}
-
-.nav2 ul li a:link{
-    color: cornflowerblue;
-    text-decoration: none;
-}
-.nav2 ul li a:visited{
-    color: cornflowerblue;
-    text-decoration: none;
-}
 
