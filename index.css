@@ -1,0 +1,50 @@
+body{
+background: url("img1.jpg")no-repeat;
+    font-family: "Lucida Sans";
+}
+.nav{
+    color: white;
+    padding-left: 1000px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+
+
+
+}
+.nav{
+    width: 300px;
+}
+.nav ul li{
+    padding-right: 40px;
+    color: white;
+}
+.nav ul li a{
+    font-size: 24px;
+}
+.nav ul li a:hover{
+    border-bottom: white 2px solid;
+}
+
+.nav ul li a:link{
+    color: white;
+    text-decoration: none;
+}
+.nav ul li a:visited{
+    color: white;
+    text-decoration: none;
+}
+.name{
+    margin-left: -400px;
+    padding-top: 200px;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.surname{
+    margin-left: -580px;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: -100px;
+}

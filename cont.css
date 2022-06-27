@@ -1,0 +1,97 @@
+body{
+    background: url("img1.jpg")no-repeat;
+    font-family: "Times New Roman";
+}
+.contact-wrap.w-100.p-md-5.p-4{
+    background: white;
+    width: 500px;
+    margin-top: 200px;
+    margin-left: -550px;
+    height: 400px;
+    border-left: 5px dodgerblue solid;
+    border-top: 5px dodgerblue solid;
+    border-bottom: 5px dodgerblue solid;
+    бор
+
+}
+.col-md-5.d-flex.align-items-stretch{
+    background: dodgerblue;
+    border: 5px white solid;
+    width: 500px;
+    margin-left: -50px;
+    height: 500px;
+    margin-top: -470px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.col-md-5.d-flex.align-items-stretch a:link{
+color: white;
+    text-decoration: none;
+}
+.col-md-5.d-flex.align-items-stretch a:visited{
+    color: white;
+    text-decoration: none;
+}
+.col-md-5.d-flex.align-items-stretch a:hover{
+    color: white;
+    border-bottom: 2px white solid;
+}
+
+
+.container{
+    justify-content: center;
+    width: 500px;
+}
+#contactForm{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.mb-4{
+    margin-left: 100px;
+}
+.info-wrap.bg-primary.w-100.p-lg-5.p-4{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.info-wrap.bg-primary.w-100.p-lg-5.p-4 h3{
+   text-align: left;
+}
+.nav{
+    color: white;
+    float: left;
+    width: 600px;
+    height: 50px;
+    padding-left: 900px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+
+
+
+}
+.nav{
+    width: 300px;
+
+}
+.nav ul li{
+    padding-right: 40px;
+    color: white;
+}
+.nav ul li a{
+    font-size: 24px;
+}
+.nav ul li a:hover{
+    border-bottom: white 2px solid;
+}
+
+.nav ul li a:link{
+    color: white;
+    text-decoration: none;
+}
+.nav ul li a:visited{
+    color: white;
+    text-decoration: none;
+}
